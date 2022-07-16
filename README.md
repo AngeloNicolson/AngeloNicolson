@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @AngeloNicolson
-- 👀 I’m interested in game development, graphics, UI and learning to code!
+- 👋 Hi, my name is Angelo!
+- 👀 I’m interested in game development, graphics, UI, Web development and learning to code!
 - 🌱 I’m currently studying software development.
 - 💞️ I’m looking to collaborate on a game and eventually a game engine.
 - 📫 How to reach me ...
