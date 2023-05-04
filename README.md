@@ -1,4 +1,5 @@
 Hi, my name is Angelo!
+
 I love being challenged and push past my previously conceived limits.
 Diving into code and trying to understanding how or why coding languages work the way they do excites me.
 I am a self taught graphics programming enthusiast. (Eating up as much knowledge as I can), 
